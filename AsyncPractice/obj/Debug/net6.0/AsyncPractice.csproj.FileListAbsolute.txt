@@ -1,0 +1,15 @@
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\bin\Debug\net6.0\AsyncPractice.exe
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\bin\Debug\net6.0\AsyncPractice.deps.json
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\bin\Debug\net6.0\AsyncPractice.runtimeconfig.json
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\bin\Debug\net6.0\AsyncPractice.dll
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\bin\Debug\net6.0\AsyncPractice.pdb
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.csproj.AssemblyReference.cache
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.AssemblyInfoInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.AssemblyInfo.cs
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.dll
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\refint\AsyncPractice.dll
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.pdb
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\AsyncPractice.genruntimeconfig.cache
+C:\Users\CHINENYE\Documents\amara\visual\Async\AsyncPractice\obj\Debug\net6.0\ref\AsyncPractice.dll
